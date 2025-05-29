@@ -38,7 +38,7 @@ Edit the entries limit you want to see for each service in '*modules/limits.py*'
 | ------------------- | ------------------------------------- | ------ |
 | **Emailrep**        | https://emailrep.io/                  | 🔑     |
 | **IpQualityScore**  | https://www.ipqualityscore.com/       | 🔑     |
-| **ProxyNova**       | https://www.proxynova.com/tools/comb/ | ✅      |
+| **ProxyNova**       | https://www.proxynova.com/tools/comb/ | 🚧     |
 | **DeHashed**        | https://dehashed.com/                 | 🔑     |
 | **LeakLookup**      | https://leak-lookup.com/              | 🔑     |
 | **Leakcheck**       | https://leakcheck.io/                 | ✅ - 🔑 |
