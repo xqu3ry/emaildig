@@ -13,6 +13,14 @@ git clone https://github.com/xqu3ry/emaildig
 cd emaildig
 ```
 
+**Don't forget to use virtual environment:**
+
+```
+python3 -m venv myenv
+```
+```
+source myenv/bin/activate
+```
 **Usage:**
 
 ```
