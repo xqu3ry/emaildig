@@ -29,7 +29,7 @@ if config.getboolean('SETTINGS', 'ascii_art'):
 
 if config.getboolean('SETTINGS', 'version'):
 
-	print("version 0.1")
+	print("version 0.2")
 
 if config.getboolean('SERVICES', 'use_proxynova'):
 
@@ -97,6 +97,11 @@ if config.getboolean('SERVICES', 'use_leakcheck'):
 
 	leakcheck.leakcheck(email)
 
+if config.getboolean('SERVICES', 'use_hudsonrock'):
+
+	print("\nHudsonrock Results:")
+
+	hudsonrock.hudsonrock(email)
 
 
 
