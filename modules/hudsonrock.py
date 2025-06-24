@@ -1,6 +1,6 @@
 import requests
 
-def check_email(email):
+def hudsonrock(email):
     url = f"https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-email?email={email}"
     headers = {
         "User-Agent": "Mozilla/5.0",
