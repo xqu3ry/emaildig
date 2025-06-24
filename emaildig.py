@@ -11,7 +11,7 @@ config.read('config.ini')
 
 import api_keys
 
-from modules import proxynova,hunter,ipqualityscore,leaklookup,breachdirectory,haveibeenpwned,snusbase,leakcheck,databreach,dehashed,emailrep
+from modules import proxynova,hunter,ipqualityscore,leaklookup,breachdirectory,haveibeenpwned,snusbase,leakcheck,databreach,dehashed,emailrep,hudsonrock
 
 import argparse
 
