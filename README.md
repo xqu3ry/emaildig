@@ -45,6 +45,6 @@ Edit the entries limit you want to see for each service in '*modules/limits.py*'
 | **Snusbase**        | https://snusbase.com                  | 🔑     |
 | **DataBreach**      | https://databreach.com/               | 🔑     |
 | **HIBP**            | https://haveibeenpwned.com/           | 🔑     |
-| **BreachDirectory** | https://breachdirectory.org           | ✅      |
-
+| **BreachDirectory** | https://breachdirectory.org           | ✅     |
+| **Hudsonrock**      | https://cavalier.hudsonrock.com       | ✅     |
 
