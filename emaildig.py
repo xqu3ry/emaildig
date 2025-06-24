@@ -29,7 +29,7 @@ if config.getboolean('SETTINGS', 'ascii_art'):
 
 if config.getboolean('SETTINGS', 'version'):
 
-	print("version 0.2")
+	print("version 0.4")
 
 if config.getboolean('SERVICES', 'use_proxynova'):
 
